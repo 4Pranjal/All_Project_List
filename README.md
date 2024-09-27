@@ -31,9 +31,7 @@ This repository contains a list of all the public projects created by [4Pranjal]
    - **Description**: Regression analysis using neural networks.
 
 4. **[heart-detection](https://github.com/4Pranjal/heart-detection)**
-   - **Language**: Jupyter Notebook
    - **Description**: Heart disease detection using machine learning.
-   - **Last Updated**: August 25, 2023
   
 5. **[AI_information](https://github.com/4Pranjal/AI_information)**
    - **Description**: Repository for AI information resources.
