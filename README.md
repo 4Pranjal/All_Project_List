@@ -51,6 +51,80 @@ This repository contains a list of all the public projects created by [4Pranjal]
     - **Language**: Python
     - **Description**: Python-based email encryption.
     - **Last Updated**: August 26, 2023
+11. **[Automated-Exploratory-Data-Analysis-EDA-Techniques](https://github.com/4Pranjal/Automated-Exploratory-Data-Analysis-EDA-Techniques)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Techniques for automated exploratory data analysis (EDA).
+    - **Last Updated**: August 26, 2023
 
-... *(continue listing the rest of the repositories in a similar format)*
+12. **[Black-Friday-Dataset-EDA-and-Feature-Engineering](https://github.com/4Pranjal/Black-Friday-Dataset-EDA-and-Feature-Engineering)**
+    - **Language**: Jupyter Notebook
+    - **Description**: EDA and feature engineering on Black Friday dataset.
+    - **Last Updated**: August 26, 2023
+
+13. **[Flight_ticket_price_prediction](https://github.com/4Pranjal/Flight_ticket_price_prediction)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Predicting flight ticket prices using machine learning.
+    - **Last Updated**: August 26, 2023
+
+14. **[Restaurant-Ratings-EDA](https://github.com/4Pranjal/Restaurant-Ratings-EDA)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Exploratory data analysis of restaurant ratings.
+    - **Last Updated**: August 25, 2023
+
+15. **[Regression-Algorithms](https://github.com/4Pranjal/Regression-Algorithms)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Implementation and comparison of various regression algorithms.
+    - **Last Updated**: August 25, 2023
+
+16. **[Logistic_regression](https://github.com/4Pranjal/Logistic_regression)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Logistic regression modeling and applications.
+    - **Last Updated**: August 25, 2023
+
+17. **[Neural-Network-Backpropagation](https://github.com/4Pranjal/Neural-Network-Backpropagation)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Backpropagation in neural networks.
+    - **Last Updated**: August 25, 2023
+
+18. **[heart-detection](https://github.com/4Pranjal/heart-detection)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Heart disease detection using machine learning.
+    - **Last Updated**: August 25, 2023
+
+19. **[Network-Analysis-and-Simulation](https://github.com/4Pranjal/Network-Analysis-and-Simulation)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Analyzing and simulating network properties.
+    - **Last Updated**: August 25, 2023
+
+20. **[ANN_implementation](https://github.com/4Pranjal/ANN_implementation)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Implementation of artificial neural networks.
+    - **Last Updated**: August 25, 2023
+
+21. **[neural-network-regression](https://github.com/4Pranjal/neural-network-regression)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Regression analysis using neural networks.
+    - **Last Updated**: August 25, 2023
+
+22. **[Epidemic-Spread-Simulation-in-Networks](https://github.com/4Pranjal/Epidemic-Spread-Simulation-in-Networks)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Simulating epidemic spread in networks.
+    - **Last Updated**: August 25, 2023
+
+23. **[Network-Community-Detection-and-Comparison](https://github.com/4Pranjal/Network-Community-Detection-and-Comparison)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Community detection and comparison in networks.
+    - **Last Updated**: August 24, 2023
+
+24. **[Network-Analysis-and-Classification](https://github.com/4Pranjal/Network-Analysis-and-Classification)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Analyzing and classifying network data.
+    - **Last Updated**: August 24, 2023
+
+25. **[Network-Degree-Distribution-Analysis](https://github.com/4Pranjal/Network-Degree-Distribution-Analysis)**
+    - **Language**: Jupyter Notebook
+    - **Description**: Analysis of degree distribution in networks.
+    - **Last Updated**: August 24, 2023
+
+
 
