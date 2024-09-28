@@ -36,7 +36,7 @@ This repository contains a list of all the public projects created by [4Pranjal]
 5. **[AI_information](https://github.com/4Pranjal/AI_information)**
    - **Description**: Repository for AI information resources.
 
-### 3. Data Analysis Projects
+### 3. LLM Projects
 1. **[LLM-AI-Meetup](https://github.com/4Pranjal/LLM-AI-Meetup)**
    - **Description**: Language models and AI meetups.
 
