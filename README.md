@@ -38,7 +38,13 @@ This repository contains a list of all the public projects created by [4Pranjal]
 
 ### 3. LLM Projects
 1. **[LLM-AI-Meetup](https://github.com/4Pranjal/LLM-AI-Meetup)**
-   - **Description**: Language models and AI meetups.
+   - **Description**: Language models and AI meetups details with summary.
+
+2. **[Chat with PDF](https://github.com/4Pranjal/End-To-End-Document-QA-With-Google-Gemma)**
+   - **Description**: Q&A - Chat with PDF using LLM (Gemini Pro)
+
+3. **[ATS Tracking System](https://github.com/4Pranjal/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/blob/main/README.md)**
+   - **Description**: ATS system to check the CV & Job % using Gemini Pro.
 
 ### 4. Data Analysis Projects
 1. **[DataAnalysis-using-R](https://github.com/4Pranjal/DataAnalysis-using-R)**
