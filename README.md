@@ -14,37 +14,26 @@ This repository contains a list of all the public projects created by [4Pranjal]
    - **Description**: ATS system to check the CV & Job % using Gemini Pro.
 ---
    
-### Deep Learning and AI Projects
-1. **[Neural-Network-Backpropagation](https://github.com/4Pranjal/Neural-Network-Backpropagation)**
-   - **Description**: Backpropagation in neural networks.
-
+### Machine Learning & Deep Learning --> AI Projects
+1. **[Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms](https://github.com/4Pranjal/Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms)**
+   - **Description**: Supervised and unsupervised modeling with genetic algorithms.
+     
 2. **[ANN_implementation](https://github.com/4Pranjal/ANN_implementation)**
    - **Description**: Implementation of artificial neural networks.
 
-3. **[neural-network-regression](https://github.com/4Pranjal/neural-network-regression)**
-   - **Description**: Regression analysis using neural networks.
-
-4. **[heart-detection](https://github.com/4Pranjal/heart-detection)**
+3. **[heart-detection](https://github.com/4Pranjal/heart-detection)**
    - **Description**: Heart disease detection using machine learning.
-  
-5. **[AI_information](https://github.com/4Pranjal/AI_information)**
-   - **Description**: Repository for AI information resources.
----
-  
-###  Machine Learning Projects
-1. **[Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms](https://github.com/4Pranjal/Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms)**
-   - **Description**: Supervised and unsupervised modeling with genetic algorithms.
 
-2. **[Machine-Learning-Algorithms](https://github.com/4Pranjal/Machine-Learning-Algorithms)**
+4. **[Machine-Learning-Algorithms](https://github.com/4Pranjal/Machine-Learning-Algorithms)**
    - **Description**: Collection of machine learning algorithms.
 
-3. **[Regression-Algorithms](https://github.com/4Pranjal/Regression-Algorithms)**
+5. **[Regression-Algorithms](https://github.com/4Pranjal/Regression-Algorithms)**
    - **Description**: Implementation and comparison of various regression algorithms.
 
-4. **[Logistic_regression](https://github.com/4Pranjal/Logistic_regression)**
+6. **[Logistic_regression](https://github.com/4Pranjal/Logistic_regression)**
    - **Description**: Logistic regression modeling and applications.
 
-5. **[Flight_ticket_price_prediction](https://github.com/4Pranjal/Flight_ticket_price_prediction)**
+7. **[Flight_ticket_price_prediction](https://github.com/4Pranjal/Flight_ticket_price_prediction)**
    - **Description**: Predicting flight ticket prices using machine learning.
    
 ---
