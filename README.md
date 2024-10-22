@@ -1,10 +1,37 @@
-# Public Repositories of All Project List by 4Pranjal
+# Public Repositories of All Project List by Pranjal
 
 This repository contains a list of all the public projects created by [4Pranjal](https://github.com/4Pranjal). The projects cover various topics, including machine learning, data analysis, and network simulations.
 
 ## Repositories Overview
+###  LLM Projects
+1. **[LLM-AI-Meetup](https://github.com/4Pranjal/LLM-AI-Meetup)**
+   - **Description**: Language models and AI meetups details with summary.
 
-### 1. Machine Learning Projects
+2. **[Chat with PDF](https://github.com/4Pranjal/End-To-End-Document-QA-With-Google-Gemma)**
+   - **Description**: Q&A - Chat with PDF using LLM (Gemini Pro)
+
+3. **[ATS Tracking System](https://github.com/4Pranjal/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/blob/main/README.md)**
+   - **Description**: ATS system to check the CV & Job % using Gemini Pro.
+---
+   
+### Deep Learning and AI Projects
+1. **[Neural-Network-Backpropagation](https://github.com/4Pranjal/Neural-Network-Backpropagation)**
+   - **Description**: Backpropagation in neural networks.
+
+2. **[ANN_implementation](https://github.com/4Pranjal/ANN_implementation)**
+   - **Description**: Implementation of artificial neural networks.
+
+3. **[neural-network-regression](https://github.com/4Pranjal/neural-network-regression)**
+   - **Description**: Regression analysis using neural networks.
+
+4. **[heart-detection](https://github.com/4Pranjal/heart-detection)**
+   - **Description**: Heart disease detection using machine learning.
+  
+5. **[AI_information](https://github.com/4Pranjal/AI_information)**
+   - **Description**: Repository for AI information resources.
+---
+  
+###  Machine Learning Projects
 1. **[Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms](https://github.com/4Pranjal/Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms)**
    - **Description**: Supervised and unsupervised modeling with genetic algorithms.
 
@@ -20,33 +47,8 @@ This repository contains a list of all the public projects created by [4Pranjal]
 5. **[Flight_ticket_price_prediction](https://github.com/4Pranjal/Flight_ticket_price_prediction)**
    - **Description**: Predicting flight ticket prices using machine learning.
    
-### 2. Deep Learning and AI Projects
-1. **[Neural-Network-Backpropagation](https://github.com/4Pranjal/Neural-Network-Backpropagation)**
-   - **Description**: Backpropagation in neural networks.
-
-2. **[ANN_implementation](https://github.com/4Pranjal/ANN_implementation)**
-   - **Description**: Implementation of artificial neural networks.
-
-3. **[neural-network-regression](https://github.com/4Pranjal/neural-network-regression)**
-   - **Description**: Regression analysis using neural networks.
-
-4. **[heart-detection](https://github.com/4Pranjal/heart-detection)**
-   - **Description**: Heart disease detection using machine learning.
-  
-5. **[AI_information](https://github.com/4Pranjal/AI_information)**
-   - **Description**: Repository for AI information resources.
-
-### 3. LLM Projects
-1. **[LLM-AI-Meetup](https://github.com/4Pranjal/LLM-AI-Meetup)**
-   - **Description**: Language models and AI meetups details with summary.
-
-2. **[Chat with PDF](https://github.com/4Pranjal/End-To-End-Document-QA-With-Google-Gemma)**
-   - **Description**: Q&A - Chat with PDF using LLM (Gemini Pro)
-
-3. **[ATS Tracking System](https://github.com/4Pranjal/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/blob/main/README.md)**
-   - **Description**: ATS system to check the CV & Job % using Gemini Pro.
-
-### 4. Data Analysis Projects
+---
+###  Data Analysis Projects
 1. **[DataAnalysis-using-R](https://github.com/4Pranjal/DataAnalysis-using-R)**
    - **Description**: Data analysis using R programming.
 
@@ -58,6 +60,7 @@ This repository contains a list of all the public projects created by [4Pranjal]
 
 4. **[Automated-Exploratory-Data-Analysis-EDA-Techniques](https://github.com/4Pranjal/Automated-Exploratory-Data-Analysis-EDA-Techniques)**
    - **Description**: Techniques for automated exploratory data analysis (EDA).
+---
 
 ### 5. Network Analysis Projects
 1. **[Network-Analysis-and-Simulation](https://github.com/4Pranjal/Network-Analysis-and-Simulation)**
