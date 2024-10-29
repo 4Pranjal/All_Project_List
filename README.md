@@ -5,13 +5,23 @@ This repository contains a list of all the public projects created by [4Pranjal]
 ## Repositories Overview
 ###  LLM Projects
 1. **[LLM-AI-Meetup](https://github.com/4Pranjal/LLM-AI-Meetup)**
-   - **Description**: Language models and AI meetups details with summary.
+   - **Description**: LLM-AI-Meetup repository! This project contains multiple Streamlit applications powered by Google Gemini models for various tasks like Q&A, PDF content interaction, and image processing. Explore the power of cutting-edge AI technology! 🤖✨
+   - **Video Link**: [Click here for video explanation](https://community.mindstone.com/annotate/article_AlxPLwrxakShyoPnF3)
 
-2. **[Chat with PDF](https://github.com/4Pranjal/End-To-End-Document-QA-With-Google-Gemma)**
-   - **Description**: Q&A - Chat with PDF using LLM (Gemini Pro)
 
-3. **[ATS Tracking System](https://github.com/4Pranjal/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/blob/main/README.md)**
-   - **Description**: ATS system to check the CV & Job % using Gemini Pro.
+2. **[End To End Multi Language Invoice Extractor using LLM model](https://github.com/4Pranjal/End-to-End-Multi-Language-Inovice-Extractor-Project-using-LLM-Model)**
+   - **Description**: Web application built using Streamlit to analyze uploaded images, particularly invoices, and provide relevant responses based on the input prompt using Google Generative AI
+
+3. **[End To End Youtube video Transcribe Summarizer LLM Streamlit Application with Google Generative AI](https://github.com/4Pranjal/End-To-End-Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro/tree/main)**
+   - **Description**: This Streamlit application takes a YouTube video link as input, extracts the transcript, and provides a concise, meaningful summary using Google Gemini Pro's Generative AI. Perfect for turning lengthy videos into quick, insightful notes!
+
+4. **[End To End chat with document using Google Gemma model](https://github.com/4Pranjal/End-To-End-Document-QA-With-Google-Gemma)**
+   - **Description**: Streamlit-based application that allows users to interact with PDF files by asking questions. It leverages Google Gemini models for language processing, embeddings, and question-answering. The application uses Google Generative AI and FAISS for efficient document search and retrieval.
+
+5. **[ATS Tracking System](https://github.com/4Pranjal/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/blob/main/README.md)**
+   - **Description**: ATS system to check the CV and  evaluates resumes against job descriptions using Google's Gemini AI and Applicant Tracking System (ATS) technology. This project processes CV resumes in PDF format, analyzes them against job descriptions, and provides a match percentage along with information to upgrade the skills.
+
+
 ---
    
 ### Machine Learning & Deep Learning --> AI Projects
