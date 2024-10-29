@@ -26,25 +26,25 @@ This repository contains a list of all the public projects created by [4Pranjal]
    
 ### Machine Learning & Deep Learning --> AI Projects
 1. **[Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms](https://github.com/4Pranjal/Predictive-Modeling-Supervised-Unsupervised-Genetic-Algorithms)**
-   - **Description**: Supervised and unsupervised modeling with genetic algorithms.
+   - **Description**: This repository contains Python code for various machine learning projects include Supervised, Unsupervised, Predicitve & Genetic Algorithm. Each part of project addresses a specific problem or task and utilizes different ML algorithms and techniques.
      
 2. **[ANN_implementation](https://github.com/4Pranjal/ANN_implementation)**
-   - **Description**: Implementation of artificial neural networks.
+   - **Description**: This repository contains an implementation of an Artificial Neural Network (ANN) using TensorFlow for predicting customer churn based on the 'Churn_Modelling.csv' dataset.
 
 3. **[heart-detection](https://github.com/4Pranjal/heart-detection)**
-   - **Description**: Heart disease detection using machine learning.
+   - **Description**: This repository contains a Python code implementation for predicting heart disease using neural networks. The project uses the Cleveland Heart Disease dataset to build and train neural network models for both categorical and binary classifications.
 
 4. **[Machine-Learning-Algorithms](https://github.com/4Pranjal/Machine-Learning-Algorithms)**
-   - **Description**: Collection of machine learning algorithms.
+   - **Description**: This repository contains examples of various machine learning algorithms implemented using Scikit-Learn. Each section focuses on a different algorithm and dataset, demonstrating how to preprocess data, train models, make predictions, and evaluate results.
 
 5. **[Regression-Algorithms](https://github.com/4Pranjal/Regression-Algorithms)**
-   - **Description**: Implementation and comparison of various regression algorithms.
+   - **Description**: This repository contains Python code that explores and compares different regression algorithms using the California Housing dataset. The primary goal is to predict housing prices based on various features present in the dataset. The code includes the implementation of Linear Regression, Ridge Regression, and Lasso Regression algorithms, along with visualization and evaluation.
 
 6. **[Logistic_regression](https://github.com/4Pranjal/Logistic_regression)**
-   - **Description**: Logistic regression modeling and applications.
+   - **Description**: Welcome to the Logistic Regression with Grid Search and EDA project! In this repository, we explore a Python script that showcases the process of building a Logistic Regression classifier, optimizing its hyperparameters using grid search, and conducting Exploratory Data Analysis (EDA) on the well-known Iris dataset.
 
 7. **[Flight_ticket_price_prediction](https://github.com/4Pranjal/Flight_ticket_price_prediction)**
-   - **Description**: Predicting flight ticket prices using machine learning.
+   - **Description**: This repository contains code that performs Exploratory Data Analysis (EDA) and feature engineering on the Flight Ticket Price Prediction dataset. The goal is to preprocess the data and extract relevant features for training a machine learning model to predict flight ticket prices accurately.
    
 ---
 ###  Data Analysis Projects
