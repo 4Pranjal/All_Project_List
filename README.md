@@ -49,37 +49,38 @@ This repository contains a list of all the public projects created by [4Pranjal]
 ---
 ###  Data Analysis Projects
 1. **[DataAnalysis-using-R](https://github.com/4Pranjal/DataAnalysis-using-R)**
-   - **Description**: Data analysis using R programming.
+   - **Description**: Welcome to the repository for the analysis and visualization of Apple Store apps using R. This project leverages various R libraries to clean, process, and visualize data to uncover valuable insights about app attributes, user ratings, and market trends.
 
 2. **[Black-Friday-Dataset-EDA-and-Feature-Engineering](https://github.com/4Pranjal/Black-Friday-Dataset-EDA-and-Feature-Engineering)**
-   - **Description**: EDA and feature engineering on Black Friday dataset.
+   - **Description**: This repository contains a comprehensive analysis of the Black Friday dataset using Exploratory Data Analysis (EDA) techniques and feature engineering. The objective is to understand the dataset, handle missing values, preprocess categorical features, and prepare the data for model training.
 
 3. **[Restaurant-Ratings-EDA](https://github.com/4Pranjal/Restaurant-Ratings-EDA)**
-   - **Description**: Exploratory data analysis of restaurant ratings.
+   - **Description**: Welcome to the Exploratory Data Analysis (EDA) of a restaurant ratings dataset from Kaggle. This repository contains code and information to help you gain insights into the dataset and understand its characteristics.
 
 4. **[Automated-Exploratory-Data-Analysis-EDA-Techniques](https://github.com/4Pranjal/Automated-Exploratory-Data-Analysis-EDA-Techniques)**
-   - **Description**: Techniques for automated exploratory data analysis (EDA).
+   - **Description**: This repository showcases various automated EDA techniques using different Python libraries to quickly gain insights into datasets and understand their structures.
+
 ---
 
 ### 5. Network Analysis Projects
 1. **[Network-Analysis-and-Simulation](https://github.com/4Pranjal/Network-Analysis-and-Simulation)**
-   - **Description**: Analyzing and simulating network properties.
+   - **Description**: This repository contains Python code for generating and analyzing different types of networks, including Erdös-Rényi (ER) networks and Watts-Strogatz (WS) networks.
 
 2. **[Network-Community-Detection-and-Comparison](https://github.com/4Pranjal/Network-Community-Detection-and-Comparison)**
-   - **Description**: Community detection and comparison in networks.
+   - **Description**: This repository contains Python code to perform community detection on a network using different algorithms, such as Louvain, Infomap, and Label Propagation. The detected communities are then compared using evaluation metrics. The code utilizes various Python libraries for network analysis and visualization.
 
 3. **[Network-Analysis-and-Classification](https://github.com/4Pranjal/Network-Analysis-and-Classification)**
-   - **Description**: Analyzing and classifying network data.
+   - **Description**: This repository contains Python code for analyzing and classifying datasets using Machine Learning techniques. It includes data preprocessing, visualization, and classification using Support Vector Machine (SVM) and Backpropagation neural networks. Two datasets are used: Ring datasets and the Bank Marketing dataset.
 
 4. **[Network-Degree-Distribution-Analysis](https://github.com/4Pranjal/Network-Degree-Distribution-Analysis)**
-   - **Description**: Analysis of degree distribution in networks.
+   - **Description**: This repository contains Python code for analyzing and visualizing the degree distribution of a network using the NetworkX library. The degree distribution is a fundamental property of networks that provides insights into how connected nodes are in the network.
 
 5. **[Epidemic-Spread-Simulation-in-Networks](https://github.com/4Pranjal/Epidemic-Spread-Simulation-in-Networks)**
-   - **Description**: Simulating epidemic spread in networks.
+   - **Description**: This repository contains Python code to simulate the spread of infections in networks using the Susceptible-Infected (SI) model. The simulation is performed through a Monte Carlo approach on different types of networks, including Erdos-Renyi and Scale-Free networks. The code analyzes how network structure and parameters influence the dynamics of epidemic spread.
 
 ### 6. Other Projects
 1. **[Power_BI_Project](https://github.com/4Pranjal/Power_BI_Project)**
    - **Description**: Power BI project for data visualization.
 
 2. **[encrypted_email](https://github.com/4Pranjal/encrypted_email)**
-   - **Description**: Python-based email encryption.
+   - **Description**: This repository contains a Python script that demonstrates how to send and receive encrypted emails using the RSA encryption algorithm. The script utilizes the rsa library for encryption and the smtplib library for sending emails via SMTP (Simple Mail Transfer Protocol).
